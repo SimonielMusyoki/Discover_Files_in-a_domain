@@ -13,6 +13,7 @@ Requires:
  <li> Linux mint </li>
  <li> Fedora 30 </li>
  <li> Windows 10 </li>
+ </ul>
  
 ###### Usage:
  update the url variable to the intended one
